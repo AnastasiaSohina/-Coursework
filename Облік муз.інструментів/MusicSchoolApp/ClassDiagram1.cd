@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MusicSchoolApp.DatabaseHelper">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAIAAAEAAAAAAAAABAAAABBAAAAA=</HashCode>
+      <FileName>DatabaseHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.InstrumentAssignmentsForm" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQGAEAAACAAAACAAAAgAAAAAAQCgQAAAQ=</HashCode>
+      <FileName>InstrumentAssignmentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.InstrumentAssignmentEditForm" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAAABRAgEQIACAEEACAEAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>InstrumentAssignmentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.InstrumentRepairsForm" Collapsed="true">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQGAEAAACAAAACAAAAgAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>InstrumentRepairsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.RepairEditForm" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEAAAAAQBAAAAACAAAACAAAAQAAACAAAAAAACgA=</HashCode>
+      <FileName>InstrumentRepairsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.InstrumentsForm" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQEAEAAACAACACCAAA4AAAAAAgAgACAAQ=</HashCode>
+      <FileName>InstrumentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.InstrumentEditForm" Collapsed="true">
+    <Position X="2" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAEAAAQAREAAAAECCAGCAAAAAAAAIAAAAIAAAw=</HashCode>
+      <FileName>InstrumentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.LoginForm" Collapsed="true">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAEEAAAAACAAAACAEAAAAAAAhAAAABBCEA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.MainForm" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAACAAEAAAAACAAAICAEAAAAABAAAAAIAQAAE=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.RegisterForm">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQAAACACAgEAEAAACAAAACAAAAAAAAABAAAAABCEA=</HashCode>
+      <FileName>RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.ReportsForm" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACABGAAAAACAAAACAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>ReportsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.RoomsForm">
+    <Position X="7.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQGAEAAACAAAACAAAAgAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>RoomsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.RoomEditForm" Collapsed="true">
+    <Position X="3" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAAAAQAAAAAAAAAAACAAAAABAAABAAAAAAAgQ=</HashCode>
+      <FileName>RoomsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.ScheduleForm" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAkAEAACAQEAEgAACAGEACAAAAgAAAEAAAAgAgAAQ=</HashCode>
+      <FileName>ScheduleForm .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.ComboBoxItem" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>ScheduleForm .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.ScheduleEditForm" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQEAAAACAAEAEgAAAAUEAAAAAAAAAAAAAAAAIAQQA=</HashCode>
+      <FileName>ScheduleForm .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.StudentEditForm" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgKQAAAEACACEAEBAACgCAACAABAAMAgAAAAAAIAAAA=</HashCode>
+      <FileName>StudentEditForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.StudentsForm" Collapsed="true">
+    <Position X="1.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQEAEACACAAAACAAEAgAAAAAAAAgQCAAQ=</HashCode>
+      <FileName>StudentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.StudentSubjectsForm">
+    <Position X="8.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQHAEAAACAAAACAEAAgAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>StudentSubjectsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.StudentSubjectEditForm">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQAAAAAAAQAAAgAAAAEEAKAEACAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>StudentSubjectsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.SubjectsForm">
+    <Position X="9" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQGAEAAACAAAAAAAAAgAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>SubjectsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.SubjectEditForm" Collapsed="true">
+    <Position X="1.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAQAAAAAAAAAAACAAAAQAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>SubjectsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.SuppliersForm">
+    <Position X="10.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQGAEAAACAAAACAAAAgAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>SuppliersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.SupplierEditForm" Collapsed="true">
+    <Position X="1.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAAAASAAAAAAAAAAACAAAAAIAgAAAAAAAAAgQ=</HashCode>
+      <FileName>SuppliersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.TeachersForm">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAACAQEBEAAACBAAACAAAAwAAAAAAAAgACAAQ=</HashCode>
+      <FileName>TeachersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.TeacherEditForm">
+    <Position X="12" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCQAAAEAAASAAEAAAAAAAACAAhAAIAAAAAAAAIEAAA=</HashCode>
+      <FileName>TeachersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.UserSession">
+    <Position X="5.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAIAAEQAAAAoACAAAAAAAAAASAAAAAAA=</HashCode>
+      <FileName>UserSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicSchoolApp.UsersForm">
+    <Position X="7.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQGAEAAACAAAACAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>UsersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

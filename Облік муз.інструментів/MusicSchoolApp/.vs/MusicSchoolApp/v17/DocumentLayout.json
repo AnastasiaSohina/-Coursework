@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\studentsubjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:studentsubjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\studentsubjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:studentsubjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\instrumentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:instrumentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:subjectsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\instrumentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:instrumentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\suppliersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:suppliersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:roomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\instrumentrepairsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:instrumentrepairsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\instrumentrepairsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:instrumentrepairsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\teachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:teachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\teachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:teachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\scheduleform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:scheduleform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\scheduleform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:scheduleform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\instrumentassignmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:instrumentassignmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\studenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:studenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\studenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:studenteditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\subjectsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:subjectsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\subjectsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:subjectsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|D:\\\u042E\u043B\u044F\\MusicSchoolApp\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|d:\\\u044E\u043B\u044F\\musicschoolapp\\studenteditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B2398C-D3DC-42F6-8A26-2210F1C74E35}|MusicSchoolApp.csproj|solutionrelative:studenteditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstrumentsForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentsForm.cs",
+              "RelativeDocumentMoniker": "InstrumentsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentsForm.cs",
+              "RelativeToolTip": "InstrumentsForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:32:00.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuppliersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SuppliersForm.cs",
+              "RelativeDocumentMoniker": "SuppliersForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SuppliersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SuppliersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:36:23.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentSubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentSubjectsForm.cs",
+              "RelativeDocumentMoniker": "StudentSubjectsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentSubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "StudentSubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:42:06.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentSubjectsForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentSubjectsForm.cs",
+              "RelativeDocumentMoniker": "StudentSubjectsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentSubjectsForm.cs",
+              "RelativeToolTip": "StudentSubjectsForm.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAswCcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:42:07.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\UserSession.cs",
+              "RelativeDocumentMoniker": "UserSession.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\UserSession.cs",
+              "RelativeToolTip": "UserSession.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:37:48.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectsForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SubjectsForm.cs",
+              "RelativeDocumentMoniker": "SubjectsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SubjectsForm.cs",
+              "RelativeToolTip": "SubjectsForm.cs",
+              "ViewState": "AgIAAFUAAAAAkM3MzMz8v1cAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:34:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SubjectsForm.cs",
+              "RelativeDocumentMoniker": "SubjectsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SubjectsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:34:12.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuppliersForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SuppliersForm.cs",
+              "RelativeDocumentMoniker": "SuppliersForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SuppliersForm.cs",
+              "RelativeToolTip": "SuppliersForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:36:25.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InstrumentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentsForm.cs",
+              "RelativeDocumentMoniker": "InstrumentsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "InstrumentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:31:57.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\RoomsForm.cs",
+              "RelativeDocumentMoniker": "RoomsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\RoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RoomsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:35:20.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomsForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\RoomsForm.cs",
+              "RelativeDocumentMoniker": "RoomsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\RoomsForm.cs",
+              "RelativeToolTip": "RoomsForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:35:22.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuppliersForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SuppliersForm.Designer.cs",
+              "RelativeDocumentMoniker": "SuppliersForm.Designer.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SuppliersForm.Designer.cs",
+              "RelativeToolTip": "SuppliersForm.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:19:53.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InstrumentRepairsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentRepairsForm.cs",
+              "RelativeDocumentMoniker": "InstrumentRepairsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentRepairsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "InstrumentRepairsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:42:48.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentsForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentsForm.cs",
+              "RelativeToolTip": "StudentsForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAArwCsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:40:19.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "StudentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:40:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InstrumentRepairsForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentRepairsForm.cs",
+              "RelativeDocumentMoniker": "InstrumentRepairsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentRepairsForm.cs",
+              "RelativeToolTip": "InstrumentRepairsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:42:50.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeachersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\TeachersForm.cs",
+              "RelativeDocumentMoniker": "TeachersForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\TeachersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "TeachersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:31:13.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAQAAABAMjMzMzMrwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:39:07.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:39:05.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:40:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeachersForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\TeachersForm.cs",
+              "RelativeDocumentMoniker": "TeachersForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\TeachersForm.cs",
+              "RelativeToolTip": "TeachersForm.cs",
+              "ViewState": "AgIAAAcAAAAgZmZmZmYhwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:31:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScheduleForm .cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ScheduleForm .cs",
+              "RelativeDocumentMoniker": "ScheduleForm .cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ScheduleForm .cs",
+              "RelativeToolTip": "ScheduleForm .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAACUPQcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:44:04.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAAkAAAAAMDMzMzPjvxEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:27:15.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScheduleForm .cs [Design]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ScheduleForm .cs",
+              "RelativeDocumentMoniker": "ScheduleForm .cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ScheduleForm .cs [Design]",
+              "RelativeToolTip": "ScheduleForm .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:44:00.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-12-01T22:20:24.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UsersForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\UsersForm.cs",
+              "RelativeDocumentMoniker": "UsersForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\UsersForm.cs",
+              "RelativeToolTip": "UsersForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:45:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InstrumentAssignmentsForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentAssignmentsForm.cs",
+              "RelativeDocumentMoniker": "InstrumentAssignmentsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\InstrumentAssignmentsForm.cs",
+              "RelativeToolTip": "InstrumentAssignmentsForm.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAIsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:33:04.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentEditForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentEditForm.cs",
+              "RelativeDocumentMoniker": "StudentEditForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentEditForm.cs",
+              "RelativeToolTip": "StudentEditForm.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:29:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentEditForm.cs",
+              "RelativeDocumentMoniker": "StudentEditForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "StudentEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:29:29.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ReportsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:45:42.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ReportsForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\ReportsForm.cs",
+              "RelativeToolTip": "ReportsForm.cs",
+              "ViewState": "AgIAAAIAAAAAODMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:45:58.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SubjectsForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SubjectsForm.Designer.cs",
+              "RelativeDocumentMoniker": "SubjectsForm.Designer.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SubjectsForm.Designer.cs",
+              "RelativeToolTip": "SubjectsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:49:36.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SubjectsForm.resx",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SubjectsForm.resx",
+              "RelativeDocumentMoniker": "SubjectsForm.resx",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\SubjectsForm.resx",
+              "RelativeToolTip": "SubjectsForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-01T13:54:01.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UsersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\UsersForm.cs",
+              "RelativeDocumentMoniker": "UsersForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\UsersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UsersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:44:58.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:38:40.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:38:39.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:38:22.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:38:23.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:33:27.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StudentEditForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "StudentEditForm.Designer.cs",
+              "ToolTip": "D:\\\u042E\u043B\u044F\\MusicSchoolApp\\StudentEditForm.Designer.cs",
+              "RelativeToolTip": "StudentEditForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:30:22.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

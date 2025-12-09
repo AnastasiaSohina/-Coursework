@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="InstrumentAssignmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InstrumentRepairsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InstrumentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoomsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScheduleForm .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentSubjectsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubjectsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SuppliersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeachersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="InstrumentAssignmentsForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="InstrumentRepairsForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="InstrumentsForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="LoginForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="MainForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="RegisterForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SubjectsForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
